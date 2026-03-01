@@ -1,6 +1,6 @@
 # 📉 Fixed Income Risk Decomposition Engine
 
-Este ecosistema avanzado de **Buy-Side Analytics** automatiza la descomposición de riesgos en bonos corporativos de grado de inversión. El motor separa sistemáticamente el **Riesgo de Tasa de Interés** del **Riesgo de Crédito (OAS)**, permitiendo una atribución de valor precisa y la simulación de escenarios macroeconómicos complejos.
+Este ecosistema de **Buy-Side Analytics** automatiza la descomposición de riesgos en bonos corporativos de grado de inversión. El motor separa sistemáticamente el **Riesgo de Tasa de Interés** del **Riesgo de Crédito (OAS)**, permitiendo una atribución de valor precisa y la simulación de escenarios macroeconómicos complejos.
 
 > **🎯 Propósito:** Cuantificar la sensibilidad de los instrumentos de renta fija ante choques de tipos de interés y spreads, determinando si un bono cotiza bajo par por factores de mercado o deterioro crediticio.
 
